@@ -1,12 +1,12 @@
 //
-//  JJBanar.m
-//  JJBanar
+//  JJBannar.m
+//  JJBannar
 //
-//  Created by 16 on 2018/7/22.
+//  Created by 16 on 2018/7/23.
 //  Copyright © 2018年 冀佳伟. All rights reserved.
 //
 
-#import "JJBanar.h"
+#import "JJBannar.h"
 #import "JJWebImage.h"
 
 #define sw self.frame.size.width
@@ -433,3 +433,4 @@
     return _pageTitle;
 }
 @end
+

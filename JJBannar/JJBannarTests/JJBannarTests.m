@@ -1,18 +1,18 @@
 //
-//  JJBanarTests.m
-//  JJBanarTests
+//  JJBannarTests.m
+//  JJBannarTests
 //
-//  Created by 16 on 2018/7/22.
+//  Created by 16 on 2018/7/23.
 //  Copyright © 2018年 冀佳伟. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface JJBanarTests : XCTestCase
+@interface JJBannarTests : XCTestCase
 
 @end
 
-@implementation JJBanarTests
+@implementation JJBannarTests
 
 - (void)setUp {
     [super setUp];
